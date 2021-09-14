@@ -1,5 +1,6 @@
 package control_Statements;
 public class blocks_ofcode {
+	//"{" and "}" are used in executing the blocks of code in java
 	public static void main(String[] args) {
 		int x,y;
 		y=20;
